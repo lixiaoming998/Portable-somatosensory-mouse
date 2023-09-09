@@ -4,7 +4,6 @@
 <br>详见《腕带式体感鼠标.doc》
 <br>[English](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-en.md)
 
-
 ## 应用
 
 ```C++
