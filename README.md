@@ -2,7 +2,7 @@
 
 基于ATmega328p最小系统板的有线体感鼠标
 <br>详见《腕带式体感鼠标.doc》
-<br>[点击下载](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-en.md)
+<br>[点击下载](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/%E8%85%95%E5%B8%A6%E5%BC%8F%E4%BD%93%E6%84%9F%E9%BC%A0%E6%A0%87.zip)
 <br>[English](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-en.md)
 
 ## 应用
