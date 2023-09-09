@@ -1,6 +1,6 @@
 ## 腕带式体感鼠标
 
-基于ATmega328p的有线体感鼠标
+基于ATmega328p最小系统板的有线体感鼠标
 <br>[English](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-en.md)
 
 
