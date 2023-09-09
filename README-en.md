@@ -1,7 +1,7 @@
 ## Wristband somatosensory mouse
 
 Wired somatosensory mouse based on ATmega328p minimal system board
-<br>[English](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-en.md)
+<br>[Chinese](https://github.com/lixiaoming998/Portable-somatosensory-mouse/blob/main/README-zh.md)
 
 
 ## apply
